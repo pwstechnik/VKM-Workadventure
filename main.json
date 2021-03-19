@@ -3721,19 +3721,6 @@
         {
          "columns":16,
          "firstgid":3157,
-         "image":"rc3-mullana-floor-wall.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"rc3-mullana-floor-wall",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":3157,
          "image":"tiles\/food_and_drinks.png",
          "imageheight":2048,
          "imagewidth":512,
