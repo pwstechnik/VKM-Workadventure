@@ -1,0 +1,146 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1302,
+                "y": 762
+            }
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#3Dprinter": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#PW-Wien_Einrichtung": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#TOX_Logo_96x96": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#Telefonzelle": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#Wände_Türen_Fenster_v2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#ausstellungen": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#cert_safety": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#cija_32x32_expansion for Pipoya_CC0": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#cookie": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#p_klein_32x32": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json#wa-tools_by_Telegnom": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/workadventure-map-starter-kit-master/map.json": {
+            "scale": 0.75,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 736,
+                "y": 543.3333333333334
+            }
+        },
+        "C:/Users/PaddyMusic/Downloads/workadventure-map-starter-kit-master/map.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/workadventure-map-starter-kit-master/map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/PaddyMusic/Downloads/workadventure-map-starter-kit-master/titleset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/PaddyMusic/unbenannt.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1584,
+                "y": 1598.6666666666665
+            }
+        },
+        "main.json": {
+            "scale": 0.25,
+            "selectedLayer": 20,
+            "viewCenter": {
+                "x": 3376,
+                "y": 756
+            }
+        },
+        "main.json#3Dprinter": {
+            "scaleInDock": 1
+        },
+        "main.json#Wände_Türen_Fenster_v2": {
+            "scaleInDock": 1
+        },
+        "main.json#cert_safety": {
+            "scaleInDock": 1
+        },
+        "main.json#cija_32x32_expansion for Pipoya_CC0": {
+            "scaleInDock": 1
+        },
+        "main.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "main.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "main.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "tilesets_modern___mack_by_milkian_dbz1aoz.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/PatrickW.MFV02/Nextcloud/VKM-workadventu.re/VKM_Museum_map-main",
+    "last.imagePath": "C:/Users/PatrickW.MFV02/Nextcloud/VKM-workadventu.re/VKM_Museum_map-main",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+    ],
+    "project": "VKMMuseum.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "tilesets_modern___mack_by_milkian_dbz1aoz.tsx",
+        "main.json",
+        "C:/Users/PaddyMusic/Downloads/PW_Museum_map-main/main.json",
+        "C:/Users/PaddyMusic/Downloads/workadventure-map-starter-kit-master/titleset.tsx",
+        "C:/Users/PaddyMusic/Downloads/workadventure-map-starter-kit-master/map.json",
+        "C:/Users/PaddyMusic/unbenannt.tmx"
+    ],
+    "tileset.lastUsedFilter": "Tiled Tileset Dateien (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx"
+}
