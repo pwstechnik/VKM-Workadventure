@@ -104,6 +104,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"sternenkueche"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
