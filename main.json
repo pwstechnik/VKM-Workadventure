@@ -312,7 +312,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.volkskundemseum.at"
+                 "value":"https:\/\/www.volkskundemuseum.at"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
