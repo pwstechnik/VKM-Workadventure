@@ -127,6 +127,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Cafe"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
