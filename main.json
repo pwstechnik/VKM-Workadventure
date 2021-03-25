@@ -4473,7 +4473,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"sounds50630__maykie993__splash.wav"
+                         "value":"sounds\/50630__maykie993__splash.mp3"
                         }]
                 }, 
                 {
@@ -4482,7 +4482,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"sounds\\50630__maykie993__splash.wav"
+                         "value":"sounds\/50630__maykie993__splash.mp3"
                         }]
                 }],
          "tilewidth":32,
