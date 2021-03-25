@@ -5,3 +5,4 @@ https://github.com/prikle/PW_Museum_map
 build for the Privacy Week.
 
 The new map is currently being expanded and enlarged
+![ main ](main.png)
